@@ -27,7 +27,7 @@ mypy = "^1"
 [tool.poetry.group.test]
 optional = true
 [tool.poetry.group.test.dependencies]
-pytest = "^7"
+pytest = "^8"
 pytest-cov = "^4"
 
 [build-system]
@@ -61,7 +61,7 @@ lint = [
     "mypy>=1",
 ]
 test = [
-    "pytest>=7",
+    "pytest>=8",
     "pytest-cov>=4",
 ]
 build = [
