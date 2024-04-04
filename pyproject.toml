@@ -7,6 +7,7 @@ repository = "https://github.com/mendix/python-project-template"
 classifiers = [
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
     "Framework :: Pytest",
     "Typing :: Typed",
 ]
